@@ -30,7 +30,6 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
 	background: #ededed;
 }
 
@@ -48,6 +47,7 @@ p {
 }
 
 #mainArea {
+	border-top: 2px solid #cf8a05;
 	padding: 0 40px;
 }
 
