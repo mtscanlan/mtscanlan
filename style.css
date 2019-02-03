@@ -18,7 +18,6 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 p {
 	font-size: 1em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
 	color: #444;
 }
 
@@ -138,7 +137,12 @@ section:last-child {
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
-	margin-bottom: 3px;
+	margin-bottom: 20px;
+}
+
+.profile {
+	font-size: 0.9em;
+	margin-bottom: 20px;
 }
 
 .keySkills {
