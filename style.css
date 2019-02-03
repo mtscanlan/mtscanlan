@@ -235,6 +235,9 @@ section:last-child {
     #cv {
         width: 100%;
     }
+	.new-page {
+	  page-break-before: always;
+	}
 }
 
 @-webkit-keyframes reset {
