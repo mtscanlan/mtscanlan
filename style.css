@@ -230,6 +230,7 @@ section:last-child {
 
 	.contentSkills {
 		float: left;
+		margin: 5px;
 	}
 }
 
@@ -258,6 +259,7 @@ section:last-child {
 
 	.contentSkills {
 		float: left;
+		margin: 5px;
 	}
 }
 
